@@ -4,7 +4,7 @@
 
 **Cybersecurity Student · SOC Analyst in Training · Pentesting Enthusiast**
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Thibamanos-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Thigasman)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Thibamanos-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Thibamanos)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
 </div>
