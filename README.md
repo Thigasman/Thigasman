@@ -15,7 +15,7 @@
 
 Security-focused learner with hands-on experience in SOC analysis and penetration testing fundamentals. Currently building a practical skill set through structured labs, CTF challenges, and real-world tooling.
 
-- 🎯 Goal: Work internationally in cybersecurity (Ireland / Canada)
+- 🎯 Goal: Work internationally in cybersecurity
 - 🔭 Currently: Google Cybersecurity Certificate + TryHackMe SOC Level 1
 - 🛠️ Focus areas: Threat detection, log analysis, network security, ethical hacking
 - 📚 Next cert: CompTIA Security+
