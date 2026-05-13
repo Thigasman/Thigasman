@@ -1,16 +1,58 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Thigasman/Thigasman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👾 Thiba | Thigasman
 
-Here are some ideas to get you started:
+**Cybersecurity Student · SOC Analyst in Training · Pentesting Enthusiast**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Thigasman-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Thigasman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+
+</div>
+
+---
+
+## 🧠 About Me
+
+Security-focused learner with hands-on experience in SOC analysis and penetration testing fundamentals. Currently building a practical skill set through structured labs, CTF challenges, and real-world tooling.
+
+- 🎯 Goal: Work internationally in cybersecurity (Ireland / Canada)
+- 🔭 Currently: Google Cybersecurity Certificate + TryHackMe SOC Level 1
+- 🛠️ Focus areas: Threat detection, log analysis, network security, ethical hacking
+- 📚 Next cert: CompTIA Security+
+
+---
+
+## 🏆 Certifications & Progress
+
+| Certification | Status |
+|---|---|
+| Google Cybersecurity Certificate | 🔄 In Progress |
+| CompTIA Security+ | 📅 Planned |
+| eJPT (INE) | 📅 Planned |
+| OSCP | 📅 Planned |
+
+---
+
+## 🔧 Tools & Technologies
+
+**Defensive (Blue Team)**
+`Splunk` `Wireshark` `Snort` `SIEM` `Linux` `Log Analysis`
+
+**Offensive (Red Team)**
+`Nmap` `Burp Suite` `Metasploit` `Gobuster` `Netcat`
+
+**Languages & Scripting**
+`Python` `Bash`
+
+---
+
+## 📬 Get in Touch
+
+- 💼 Open to opportunities in **SOC Analyst** and **Junior Pentester** roles
+- 📧 Reach me via LinkedIn
+
+---
+
+<div align="center">
+<sub>Building skills one lab at a time. 🔐</sub>
+</div>
